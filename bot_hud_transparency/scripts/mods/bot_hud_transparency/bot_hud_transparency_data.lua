@@ -42,7 +42,7 @@ return {
 				setting_id = "hide_bot_rescue_markers",
 				type = "checkbox",
 				default_value = true,
-			}
-		}
-	}
+			},
+		},
+	},
 }

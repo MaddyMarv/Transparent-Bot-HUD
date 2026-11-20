@@ -25,7 +25,7 @@ local locales = {
 	},
 	hide_bot_rescue_markers = {
 		en = "Hide Bot Rescue Markers",
-	}
+	},
 }
 
 return locales
