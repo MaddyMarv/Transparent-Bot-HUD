@@ -13,4 +13,4 @@ Adjust opacity or hide bot HUD panels and nametags.
 [/spoiler]
 
 [b]Links:[/b]
-[url=https://github.com/MaddyMarv/Transparent-Bot-Hud]Source Code[/url] | [url=https://www.nexusmods.com/profile/indicabunny]Nexus Mods Profile[/url] | [url=https://ko-fi.com/indicabunny]Support Me on Ko-fi[/url]
+[url=https://github.com/MaddyMarv/Transparent-Bot-HUD]Source Code[/url] | [url=https://www.nexusmods.com/profile/indicabunny]Nexus Mods Profile[/url] | [url=https://ko-fi.com/indicabunny]Support Me on Ko-fi[/url]

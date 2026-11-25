@@ -16,4 +16,4 @@ Adjust opacity or hide bot HUD panels and nametags.
 - Hide Bot Rescue Markers
 </details>
 
-🔗 **Links:** [Source Code](https://github.com/MaddyMarv/Transparent-Bot-Hud) | [Nexus Mods Profile](https://www.nexusmods.com/profile/indicabunny) | [Support Me on Ko-fi](https://ko-fi.com/indicabunny)
+🔗 **Links:** [Source Code](https://github.com/MaddyMarv/Transparent-Bot-HUD) | [Nexus Mods Profile](https://www.nexusmods.com/profile/indicabunny) | [Support Me on Ko-fi](https://ko-fi.com/indicabunny)
