@@ -1,6 +1,6 @@
 local locales = {
 	mod_name = {
-		en = "Bot HUD Transparency",
+		en = "Transparent Bot HUD",
 	},
 	mod_description = {
 		en = "Adjust opacity or hide bot HUD panels and nametags.",
